@@ -1,0 +1,9 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+
+  "data-db-connection": "mongodb+srv://japotes7:0710Alex199110@cluster0.9hgajnz.mongodb.net/db_registraduria?retryWrites=true&w=majority",
+  "name-db": "db_registraduria"
+}
+
+
